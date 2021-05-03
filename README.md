@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DidwmBr
 - 👀 I’m interested in Game, photography and VR
-- 🌱 I’m currently learning as a student IIT Guwahati
+- 🌱 I’m currently a student at IIT Guwahati
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me Insta handle Didwm_brh
 <!---
