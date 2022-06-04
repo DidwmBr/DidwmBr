@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DidwmBr
+- 👋 Hi, I’m Didwm Brahma
 - 👀 Interests Game, photography and VR
 - 🌱 Student at IIT Guwahati
 - 💞️ I’m looking to collaborate on web development
