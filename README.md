@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Didwm Brahma
-- 👀 Interests Game, photography and VR
+- 👀 Interests Game, photography, software, design and VR
 - 🌱 Studies at IIT Guwahati
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me on Ig @ Didwm_brh
